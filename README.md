@@ -9,8 +9,8 @@ ex.
    * case 1 : s replaced by z
    * case 2 : s replaced by ab
    * case 3 : mis replaced by a
-   *case 4 : mis replaced by xyz
-   *case 5 : mis replaced by xyzw
+   * case 4 : mis replaced by xyz
+   * case 5 : mis replaced by xyzw
   
   etc.
 
